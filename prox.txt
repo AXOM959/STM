@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/AXOM959/blob/main/prox.txt
+✓ ISP: 103.116.57.138 (Myanmar Unilink Communication Company Limited) [21.9952, 97.9988]
+✓ Found 20 Public Servers
+
+✓ Test Server: [23102] 601.52km Yangon (Myanmar) by AGB Communication
+✓ Latency: 29.865825ms Jitter: 22.605089ms Min: 11.476924ms Max: 74.872776ms
+✓ Download: 11.26Mbps (used: 13.42MB) (latency: 60ms jitter: 144ms min: 6ms max: 611ms)
+✓ Upload: 12.79Mbps (used: 15.25MB) (latency: 132ms jitter: 232ms min: 10ms max: 754ms)
